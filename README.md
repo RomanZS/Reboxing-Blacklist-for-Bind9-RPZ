@@ -1,14 +1,15 @@
 # Reboxing Blacklist for bind9 RPZ
 ### Pointers
+As much as possible we do on these below,
   - Free from duplicate domains.
   - Prune sub-domains if domaain present.
-  - Throw ip-address in each category (if any) to specific category, **ipv4 category**.
+  - Throw ip-address in each category (if any) to specific category, **[ipv4 category](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/tree/master/ipv4)**.
   - Remove domains less than 4 characters and larger than 64 characters [RFC 1035](https://www.ietf.org/rfc/rfc1035.txt).
   - Remove domains that construct with international characters (non ASCII).
   - Move (if any) adult, advertise, malware and redirector domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) to appropriate category. Use domains in [shallalist](https://github.com/cbuijs/shallalist/raw/master/porn/domains.original) for moving identical domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) TO [db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)
   - Add [gambling](https://dsi.ut-capitole.fr/blacklists/download/gambling.tar.gz) and [gamble](https://github.com/cbuijs/shallalist/raw/master/gamble/domains.original) domains list to [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif).
-  - Fixing [TLD](http://data.iana.org/TLD/tlds-alpha-by-domain.txt) typo in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) and false negative in all category.
-  - Adult category splitted to variouse sub-category to reduce zones loading
+  - Fixing [TLD](http://data.iana.org/TLD/tlds-alpha-by-domain.txt) typo in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) and _false-negative_ in all category.
+  - Adult category splitted to variouse _sub-category_ to reduce zones loading
 ### Original sources blacklist
 ##### 1. Adult Category -- _[db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)_
 - [x] https://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
