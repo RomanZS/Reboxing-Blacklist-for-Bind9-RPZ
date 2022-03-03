@@ -50,6 +50,5 @@ All Owner-Maintener of sources-list (on urls) above
 You can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0**, in the hope that it will be useful.
 ##### Disclaimer
 These script are as they are, and to be used at your own risk
-##### Contact Us
-Please use our mailing for questions, feedback and bug fixes:
-   - pragola1pati@gmail.com
+##### Issue and bugs
+Please write on Issue or Discussions for questions, feedback and bug fixes:
