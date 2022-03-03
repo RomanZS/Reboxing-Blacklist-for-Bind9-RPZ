@@ -12,7 +12,7 @@ As much as possible we do on these below,
   - Adult category splitted to variouse _sub-category_ to reduce zones loading
 ### Original sources blacklist
 ##### 1. Adult Category -- _[db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)_
-Contain adult-porn domains, grabbing from sources below,
+Contain adult-porn domains, grabbing from sources below :
 - [x] https://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
 - [x] https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt
 - [x] https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif
