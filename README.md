@@ -4,7 +4,7 @@
 - [x] https://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/porn/domains.original
 - [x] https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt
-- [x] https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositi
+- [x] https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif
 ### 2. ipv4 Category
 - [x] https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
 - [x] https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.ip
