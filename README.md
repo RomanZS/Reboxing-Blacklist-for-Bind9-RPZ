@@ -3,7 +3,7 @@
 As much as possible we do on these below,
   - Free from duplicate domains.
   - Prune sub-domains if domaain present.
-  - Throw ip-address in each category (if any) to specific category, **[ipv4 category](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/tree/master/ipv4)**.
+  - Throw ip-address in each category (if any) to specific category, [ipv4 category](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/tree/master/ipv4).
   - Remove domains less than 4 characters and larger than 64 characters [RFC 1035](https://www.ietf.org/rfc/rfc1035.txt).
   - Remove domains that construct with international characters (non ASCII).
   - Move (if any) adult, advertise, malware and redirector domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) to appropriate category. Use domains in [shallalist](https://github.com/cbuijs/shallalist/raw/master/porn/domains.original) for moving identical domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) TO [db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)
