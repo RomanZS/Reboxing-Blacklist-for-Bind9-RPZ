@@ -52,4 +52,4 @@ Based on [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/ma
 - **Credits to** : All Owner-Maintener of sources-list (on urls) above
 - **License** : You can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0**, in the hope that it will be useful.
 - **Disclaimer** : These script are as they are, and to be used at your own risk
-- **Feedback ** : Please write on [Issue](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/issues) or [Discussions](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/discussions) for questions and bug fixes
+- **Feedback** : Please write on [Issue](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/issues) or [Discussions](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/discussions) for questions and bug fixes
