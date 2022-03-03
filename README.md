@@ -10,7 +10,7 @@ As much as possible we do on these below,
   - Move (if any) adult, advertise, malware and redirector domains in [trust+](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/trust%2B_domains) to related category. Use domains in [shallalist](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/shallalist.tar.gz) for moving identical domains in [trust+](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/trust%2B_domains) TO [adult category](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult) 
   - Add [gambling](https://dsi.ut-capitole.fr/blacklists/download/gambling.tar.gz) and [gamble](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/shallalist.tar.gz) domains list to [trust+ category](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/trust%2B).
   - Fixing [TLD](http://data.iana.org/TLD/tlds-alpha-by-domain.txt) typo in [trust+](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/trust%2B_domains) and _false-negative_ in all category.
-  - Adult category splitted to variouse _sub-category_ to reduce zones loading
+  - Adult category splitted into several _sub-category_ to reduce zones loading
 ### Original sources blacklist
 ##### 1. Adult Category -- _[db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)_
 Contain _adult-porn domains_, grabbing from sources below :
