@@ -1,4 +1,4 @@
-# Reboxing Blacklist for bind9 RPZ
+# Reboxing Blacklist for Bind9 RPZ
 ### Pointers
 As much as possible we do on these below,
   - Free from duplicate domains.
