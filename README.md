@@ -51,4 +51,4 @@ You can redistribute it and/or modify it under the terms of the **GNU General Pu
 ##### Disclaimer
 These script are as they are, and to be used at your own risk
 ##### Issue and bugs
-Please write on Issue or Discussions for questions, feedback and bug fixes:
+Please write on [Issue](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/issues) or [Discussions](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/discussions) for questions, feedback and bug fixes:
