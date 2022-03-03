@@ -47,7 +47,7 @@
 All Owner-Maintener of sources-list (on urls) above
 ##### License
 You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
-##### Disclaimer:
+##### Disclaimer
 These script are as they are, and to be used at your own risk
 ##### Contact Us
 Please use our mailing for questions, feedback and bug fixes:
