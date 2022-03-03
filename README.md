@@ -12,7 +12,7 @@ As much as possible we do on these below,
   - Adult category splitted to variouse _sub-category_ to reduce zones loading
 ### Original sources blacklist
 ##### 1. Adult Category -- _[db.adult*](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/adult)_
-Contain adult-porn domains, grabbing from sources below :
+Contain _adult-porn domains_, grabbing from sources below :
 - [x] https://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
 - [x] https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt
 - [x] https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif
@@ -32,7 +32,7 @@ Contain _malware, ransomware and phishing_ domains, grabbing from sources below 
 - [x] https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 - [x] https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 ##### 4. Publicite Category -- _[db.publicite](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/publicite)_
-Contain advertishment domains, grabbing from sources below :
+Contain _advertisement domains_, grabbing from sources below :
 - [x] https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/adv/domains.original
 - [x] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
