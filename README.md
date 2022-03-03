@@ -5,7 +5,7 @@
   - Throw ip-address in each category (if any) to specific category, **ipv4 category**.
   - Remove domains less than 4 characters and larger than 64 characters [RFC 1035](https://www.ietf.org/rfc/rfc1035.txt).
   - Remove domains that construct with international characters (non ASCII).
-  - Move adult, advertise, malware and redirector domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) to appropriate category.
+  - Move (if any) adult, advertise, malware and redirector domains in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) to appropriate category.
   - Add [gambling](https://dsi.ut-capitole.fr/blacklists/download/gambling.tar.gz) and [gamble](https://github.com/cbuijs/shallalist/raw/master/gamble/domains.original) domains list to [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif).
   - Fixing [TLD](http://data.iana.org/TLD/tlds-alpha-by-domain.txt) typo in [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) and false negative in all category.
   - Adult category splitted to variouse sub-category to reduce zones loading
