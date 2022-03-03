@@ -22,7 +22,7 @@ Contain _ip-address_ taken from other category, and grabbing from sources below,
 - [x] https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
 - [x] https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.ip
 ##### 3. Malware Category -- _[db.malware](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/malware)_
-Contain _malware and phishing_ domains grabbing from sources below,
+Contain _malware, ransomware and phishing_ domains grabbing from sources below,
 - [x] https://dsi.ut-capitole.fr/blacklists/download/phishing.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/spyware/domains.original
 - [x] https://malc0de.com/bl/ZONES
