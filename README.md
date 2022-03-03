@@ -1,4 +1,5 @@
 # Reboxing Blacklist for Bind9 RPZ
+output from a pack of bash-script at [Grabbing Blacklist for Bind9 RPZ](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ)
 ### Pointers
 As much as possible we do on these below,
   - Free from duplicate domains.
