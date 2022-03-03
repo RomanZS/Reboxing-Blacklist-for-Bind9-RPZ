@@ -40,7 +40,7 @@ Contain advertishment domains grabbing from sources below,
 - [x] https://v.firebog.net/hosts/AdguardDNS.txt
 - [x] https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
 ##### 5. Redirector Category -- _[db.redirector](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/redirector)_
-Contain _vpn, redirector and proxy_ domains grabbing from sources below,
+Contain _vpn and redirector_ domains grabbing from sources below,
 - [x] https://dsi.ut-capitole.fr/blacklists/download/redirector.tar.gz
 - [x] https://dsi.ut-capitole.fr/blacklists/download/vpn.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/redirector/domains.original
