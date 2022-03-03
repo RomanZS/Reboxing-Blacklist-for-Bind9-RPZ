@@ -46,10 +46,9 @@
 ##### Credits to
 All Owner-Maintener of sources-list (on urls) above
 ##### License
-You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+You can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0**, in the hope that it will be useful.
 ##### Disclaimer
 These script are as they are, and to be used at your own risk
 ##### Contact Us
 Please use our mailing for questions, feedback and bug fixes:
-   pragola1pati@gmail.com
-   pragolapati@yahoo.com
+   - pragola1pati@gmail.com
