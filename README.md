@@ -1,6 +1,6 @@
 # Repacking Blacklist for Bind9_RPZ
 ### Pointers
-  - Free from duplcate domains.
+  - Free from duplicate domains.
   - Prune sub-domains if domaain present.
   - Throw ip-address in each category (if any) to specific category, **ipv4 category**.
   - Remove domains less than 4 characters and larger than 64 characters [RFC 1035](https://www.ietf.org/rfc/rfc1035.txt).
