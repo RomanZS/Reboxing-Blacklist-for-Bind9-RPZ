@@ -45,8 +45,7 @@ Contain _vpn, redirector and proxy_ domains grabbing from sources below,
 - [x] https://dsi.ut-capitole.fr/blacklists/download/vpn.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/redirector/domains.original
 ##### 6. Trust+ Category -- _[db.trust+](https://github.com/ngadmini/Repacking-Blacklist-for-Bind9-rpz/tree/master/trust%2B)_
-Based on [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) BUT reduce from _adult-porn domains_ AND enriched with _gambling_ domains grabbing from sources below,
-- [x] https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif
+Based on [trust+](https://raw.githubusercontent.com/alsyundawy/dnstrust-apjii/main/raw/db_trustpositif) BUT reduce from _adult-porn domains_ AND enriched with _gambling domains_ grabbing from sources below,
 - [x] https://dsi.ut-capitole.fr/blacklists/download/gambling.tar.gz
 - [x] https://github.com/cbuijs/shallalist/raw/master/gamble/domains.original
 ### Others
