@@ -1,4 +1,4 @@
-# Repacking Blacklist for Bind9_RPZ
+# Reboxing Blacklist for bind9 RPZ
 ### Pointers
   - Free from duplicate domains.
   - Prune sub-domains if domaain present.
