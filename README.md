@@ -49,6 +49,8 @@ Contain _vpn and redirector_ domains, grabbing from sources below :
 Based on [trust+](https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/trust%2B_domains) BUT reduce from _adult-porn domains_ AND enriched with _gambling domains_ grabbing from sources below :
 - [x] https://dsi.ut-capitole.fr/blacklists/download/gambling.tar.gz
 - [x] https://github.com/ngadmini/Grabbing-Blacklist-for-Bind9-RPZ/blob/master/raw/shallalist.tar.gz
+### Usage
+Please see [wiki](https://github.com/ngadmini/Reboxing-Blacklist-for-Bind9-RPZ/wiki)
 ### Others
 - **Credits to** : All Owner-Maintener of sources-list (on urls) above
 - **License** : You can redistribute it and/or modify it under the terms of the [GNU General Public License v3.0](https://github.com/ngadmini/Reboxing-Blacklist-for-bind9-RPZ/blob/master/LICENSE), in the hope that it will be useful.
